@@ -63,6 +63,34 @@ Ready to build your own AI agent network? Visit [SuperIntelAgents.ai](https://su
 - Tailwind CSS
 - React with real-time updates
 
+## Contributing
+
+We welcome contributions! If you'd like to improve this demo or add new features:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## Issues and Support
+
+- 🐛 Found a bug? [Open an issue](https://github.com/superintelagents/customer-service-ai-agents/issues)
+- 💡 Have a feature idea? [Start a discussion](https://github.com/superintelagents/customer-service-ai-agents/discussions)
+- 📚 Need help with SuperIntelAgents.ai? Visit our [documentation](https://superintelagents.ai/docs)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Built with [SuperIntelAgents.ai](https://superintelagents.ai) - The fastest way to build and deploy AI agent networks
+- Inspired by the need for accessible AI agent development tools
+- Thanks to the open source community for feedback and contributions
+
 ---
 
-**Built with [SuperIntelAgents.ai](https://superintelagents.ai)** - The fastest way to build and deploy AI agent networks
+**⭐ Star this repo if it helped you understand AI agent development!**
+
+**Ready to build your own?** → [Start with SuperIntelAgents.ai](https://superintelagents.ai)
