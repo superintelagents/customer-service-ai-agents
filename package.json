@@ -1,0 +1,29 @@
+{
+  "name": "customer-service-ai-agents",
+  "version": "1.0.0",
+  "description": "Customer Service AI Agent Network - SuperIntelAgents.ai Case Study",
+  "scripts": {
+    "dev": "next dev -p 3004",
+    "build": "next build",
+    "start": "next start -p 3004",
+    "lint": "next lint"
+  },
+  "keywords": ["ai agents", "customer service", "superintelagents", "multi-agent", "case study"],
+  "author": "SuperIntelAgents.ai",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^24.3.1",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "autoprefixer": "^10.4.21",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.543.0",
+    "next": "^15.5.2",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
+  }
+}
